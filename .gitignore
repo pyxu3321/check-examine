@@ -1,0 +1,9 @@
+# 输出结果文件
+异常复核报告.xlsx
+inventory_analysis_result.xlsx
+
+# Python缓存
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
